@@ -1,6 +1,9 @@
 ### Hi there 👋
+![Header](./your-header-image-name.png)
 
 <!--
+
+![Header](./your-header-image-name.png)
 **dodoza7741/dodoza7741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
